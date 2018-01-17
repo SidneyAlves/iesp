@@ -69,7 +69,7 @@
         <a name="sobrenos"></a>
         <div class="container sobrenos">
             <h1 class="text-center">Sobre nós</h1>
-            <img src="img/agua-viva.jpg" width="100%" alt="">
+            <img src="img/agua-viva.jpg" width="100%" alt=""><p></p>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
                 Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
