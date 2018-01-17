@@ -101,13 +101,13 @@
 
             <form action="enviar.php" id="contato" method="post">
                 <div class="form-group">
-                    <input type="text" class="form-control" required="true" placeholder="Nome">
+                    <input type="text" name="nome" class="form-control" required="true" placeholder="Nome">
                 </div>
                 <div class="form-group">
-                    <input type="email" class="form-control" required="true" placeholder="Email">
+                    <input type="email" name="email" class="form-control" required="true" placeholder="Email">
                 </div>
                 <div class="form-group">
-                    <textarea class="form-control">Mensagem</textarea>
+                    <textarea name="msg" rows="5" class="form-control">Mensagem</textarea>
                 </div>
 
                 <center><button type="submit" class="btn btn-primary">Enviar</button></center>
