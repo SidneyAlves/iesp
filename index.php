@@ -31,6 +31,8 @@
     <section class="container-fluid plx1">
     </section>
 
+    <div class="container firula-topo"></div>
+
     <section class="container-fluid">
     <a name="textos"></a>
         <div class="container textos">
@@ -90,6 +92,8 @@
             </p>
         </div>
     </section>
+
+    <div class="container firula-bottom"></div>
 
     <section class="container-fluid plx2">
     </section>
