@@ -1,0 +1,89 @@
+body h1{
+    color: #04005f;
+}
+
+body h2{
+    color: #04005f;
+}
+
+header{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    height: 300px;
+    
+}
+
+
+.menu{
+    margin-top:20px;
+    background-color:#04005f;
+}
+
+.menu a{
+    color:#ffffff;
+}
+
+.menu a:hover{
+    color: #d50001;
+}
+
+.link{
+    float: right;
+
+}
+
+.plx1{
+    margin-top:20px;
+    margin-bottom:20px;
+    background-image: url("img/lanaya.jpg");
+    height: 300px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.plx2{
+    margin-top:20px;
+    margin-bottom:20px;
+    background-image: url("img/Lighthouse.jpg");
+    height: 300px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.textos{
+    margin-top:20px;
+    text-align: justify;
+}
+
+.sobrenos{
+    text-align: justify;
+}
+
+.form{
+    margin-bottom:20px;
+}
+
+footer{
+    background-color: #04005f;
+    color:#ffffff;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer a{
+    color:#ffffff;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: #d50001;
+}
