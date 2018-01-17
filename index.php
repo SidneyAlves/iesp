@@ -36,10 +36,10 @@
     <section class="container-fluid">
     <a name="textos"></a>
         <div class="container textos">
-            <center><h1>Lorem Ipsum</h1></center>
+            <center><h1>Cursos</h1></center>
             <div class="row">
                 <div class="col-md-4">
-                    <h2 class="text-center">Lorem Ipsum</h2>
+                    <h2 class="text-center">Autismo</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
                         Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
@@ -47,7 +47,7 @@
                 </div>
 
                 <div class="col-md-4">
-                    <h2 class="text-center">Lorem Ipsum</h2>
+                    <h2 class="text-center">Deficiência Intelectual</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
                         Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
@@ -55,13 +55,45 @@
                 </div>
 
                 <div class="col-md-4">
-                    <h2 class="text-center">Lorem Ipsum</h2>
+                    <h2 class="text-center">Deficiência Visual</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
                         Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
                         vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
                 </div>
             </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <h2 class="text-center">Educação Especial</h2>
+                    <img src="img/agua-viva.jpg" width=100% alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
+                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
+                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="text-center">Libras</h2>
+                    <img src="img/agua-viva.jpg" width=100% alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
+                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
+                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="text-center">Neuropsicopedagogia</h2>
+                    <img src="img/agua-viva.jpg" width=100% alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
+                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
+                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <p class="textos2">Os cursos de Pós-Graduação estão estruturados de acordo com as exigências da Resolução CNE/ CES n° 01/2007.</p>
+
+            </div>
+
         </div>
     </section>
 
@@ -70,26 +102,9 @@
         <div class="container sobrenos">
             <h1 class="text-center">Sobre nós</h1>
             <img src="img/agua-viva.jpg" width="100%" alt=""><p></p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.
-            </p>
+            <p>O Instituto Educacional Soares Prado é uma empresa especializada para atender especialmente profissionais da Educação, tanto da Rede Estadual e Municipal de Ensino quanto da rede Particular, com cursos de Pós-Graduação Lato-Sensu, Aperfeiçoamento, Extensão e Aproveitamento de Estudos garantindo assim seu sucesso profissional e social. </p>
+            <p>Atuamos no Atendimento Pedagógico Especializado, com profissionais capacitados na área da Educação Especial e espaço totalmente estruturado.</p>
+            <p>Trata-se de um desafio de grandes proporções, mas algo perfeitamente factível. Durante todo o tempo deste desafio com o Instituto Educacional Soares Prado, haverá sempre alguém a orientar, encorajar, apoiar e assessorar.</p>
         </div>
     </section>
 
@@ -117,6 +132,17 @@
                 <center><button type="submit" class="btn btn-primary">Enviar</button></center>
             </form>
 
+        </div>
+    </section>
+
+    <section class="container-fluid">
+    <a name="parceiros"></a>
+        <div class="container parceiros">
+            <center><h1>Parceiros</h1></center> <p></p>
+            <div class="row">
+                <div class="col-md-6"><a href="http://www.facespi.com.br/" target="_blank"><img src="img/facespi.gif"alt=""></a></div>
+                <div class="col-md-6"><br><br><br><br><br> <a href="http://fapss.org/" target="_blank"><img src="img/fapss.gif" alt=""></a></div>
+            </div>
         </div>
     </section>
 

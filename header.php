@@ -40,13 +40,16 @@
                         <a class="nav-link active" href="#topo">Home</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#textos">Lorem Ipsum</a>
+                        <a class="nav-link" href="#textos">Cursos</a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="#sobrenos">Sobre nós</a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="#form">Contato</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="#parceiros">Parceiros </a>
                         </li>
                         <li class="nav-item">
                         <a class="nav-link" href="#mapa">Mapa</a>
