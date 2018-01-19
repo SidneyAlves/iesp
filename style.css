@@ -1,4 +1,7 @@
-
+body h1{
+    font-family: impact;
+    text-transform: uppercase;
+}
 body h2{
     color: #04005f;
 }

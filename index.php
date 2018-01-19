@@ -5,16 +5,24 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="img/agua-viva.jpg" alt="First slide">
+              <img class="d-block w-100" src="img/slide.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="img/agua-viva.jpg" alt="First slide">
+              <img class="d-block w-100" src="img/slide2.jpeg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="img/agua-viva.jpg" alt="Third slide">
+              <img class="d-block w-100" src="img/slide3.jpeg" alt="Third slide">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="img/slide4.png" alt="First slide">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="img/slide5.jpg" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -36,61 +44,59 @@
     <section class="container-fluid">
     <a name="textos"></a>
         <div class="container textos">
-            <center><h1>Cursos</h1></center>
+            <center><h1>Cursos de pós graduação</h1></center>
             <div class="row">
                 <div class="col-md-4">
                     <h2 class="text-center">Autismo</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                    <p><strong>Conteúdo programático:</strong> Avaliação, diagnóstico e tratamento do Autista; Atendimento
+                    educacional especializado ao Autista; TEACCH e o Sistemas de PECS; Aspectos psicológicos e
+                    neurobiológicos relacionados ao autismo...</p>
+                    <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.
+                    </p>
+                    <p><strong>Carga horária:</strong> 420h e 600h.</p>
                 </div>
 
-                <div class="col-md-4">
+                <div class="col-md-4 offset-4">
                     <h2 class="text-center">Deficiência Intelectual</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                    <p><strong>Conteúdo programático:</strong> Tecnologia Educacional a serviço de alunos com deficiência intelectual; Psicologia do desenvolvimento; Fundamentos da educação de alunos com necessidades educacionais especiais; Relações familiares...</p>
+                    <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.
+</p>
+                    <p><strong>Carga horária:</strong> 420h e 600hrs.</p>
+                
                 </div>
-
-                <div class="col-md-4">
-                    <h2 class="text-center">Deficiência Visual</h2>
-                    <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
-                </div>
-            </div>
 
             <div class="row">
                 <div class="col-md-4">
                     <h2 class="text-center">Educação Especial</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                    <p><strong>Conteúdo programático:</strong> Deficiências sensoriais, físicas e motoras; TDA/H e outros transtornos associados; Psicomotricidade; Fala, gagueira, dislexia e desenvolvimento da escrita...</p>
+                    <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.
+                    </p>
+                    <p><strong>Carga horária:</strong> 420hrs.</p>
                 </div>
 
                 <div class="col-md-4">
                     <h2 class="text-center">Libras</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                    <p><strong>Conteúdo programático:</strong> Metodologia de ensino e escrita de sinais; Fonética e Fonologia; Literatura visual e aquisição da linguagem; História, cultura e patrimônios regionais da educação de surdos...</p>
+                    <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.
+                    </p>
+                    <p><strong>Carga horária:</strong> 420h, 600h e 930hrs.</p>
                 </div>
 
                 <div class="col-md-4">
                     <h2 class="text-center">Neuropsicopedagogia</h2>
                     <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu aliquam sapien. Aenean congue euismod dolor nec scelerisque. 
-                        Nulla efficitur orci eget nisi ultrices congue. Praesent pellentesque tempor convallis. Sed enim odio, 
-                        vestibulum a posuere sit amet, vulputate eget ligula. Vivamus imperdiet vitae nibh ut euismod.</p>
+                    <p><strong>Conteúdo programático:</strong> Tecnologia Educacional a serviço de alunos com deficiência intelectual; Psicologia do desenvolvimento; Fundamentos da educação de alunos com necessidades educacionais especiais; Relações familiares...</p>
+                    <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.</p>
+                    <p><strong>Carga horária:</strong> 420h e 600hrs.</p>
                 </div>
             </div>
 
             <div class="col-md-12">
-                <p class="textos2">Os cursos de Pós-Graduação estão estruturados de acordo com as exigências da Resolução CNE/ CES n° 01/2007.</p>
+                <p class="textos2"><strong><center>Os cursos de Pós-Graduação estão estruturados de acordo com as exigências da Resolução CNE/ CES n° 01/2007.</center></strong></p>
 
             </div>
 
@@ -101,7 +107,7 @@
         <a name="sobrenos"></a>
         <div class="container sobrenos">
             <h1 class="text-center">Sobre nós</h1>
-            <img src="img/agua-viva.jpg" width="100%" alt=""><p></p>
+            <img src="img/quem-somos.jpg" width="100%" alt=""><p></p>
             <p>O Instituto Educacional Soares Prado é uma empresa especializada para atender especialmente profissionais da Educação, tanto da Rede Estadual e Municipal de Ensino quanto da rede Particular, com cursos de Pós-Graduação Lato-Sensu, Aperfeiçoamento, Extensão e Aproveitamento de Estudos garantindo assim seu sucesso profissional e social. </p>
             <p>Atuamos no Atendimento Pedagógico Especializado, com profissionais capacitados na área da Educação Especial e espaço totalmente estruturado.</p>
             <p>Trata-se de um desafio de grandes proporções, mas algo perfeitamente factível. Durante todo o tempo deste desafio com o Instituto Educacional Soares Prado, haverá sempre alguém a orientar, encorajar, apoiar e assessorar.</p>
