@@ -6,7 +6,6 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -19,10 +18,7 @@
               <img class="d-block w-100" src="img/slide3.jpeg" alt="Third slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="img/slide4.png" alt="First slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="img/slide5.jpg" alt="Third slide">
+              <img class="d-block w-100" src="img/slide5.jpg" alt="First slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -48,7 +44,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <h2 class="text-center">Autismo</h2>
-                    <img src="img/agua-viva.jpg" width=100% alt="">
+                    <img src="img/autismo.jpeg" width=100% alt="">
                     <p><strong>Conteúdo programático:</strong> Avaliação, diagnóstico e tratamento do Autista; Atendimento
                     educacional especializado ao Autista; TEACCH e o Sistemas de PECS; Aspectos psicológicos e
                     neurobiológicos relacionados ao autismo...</p>
@@ -57,12 +53,20 @@
                     <p><strong>Carga horária:</strong> 420h e 600h.</p>
                 </div>
 
-                <div class="col-md-4 offset-4">
+                <div class="col-md-4">
+                    <h2 class="text-center">Neuropsicopedagogia</h2>
+                    <img src="img/neuro.jpg" width=100% alt="">
+                    <p><strong>Conteúdo programático:</strong> Conteúdo programático: Fundamentos da Neuropsicopedagogia aplicada a pedagogia; Neuropsicologia do desenvolvimento humano; Teoria e prática da Neuropsicopedagogia...</p>
+                    <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.</p>
+                    <p><strong>Carga horária:</strong> 420hs.</p>
+                </div>
+
+                <div class="col-md-4">
                     <h2 class="text-center">Deficiência Intelectual</h2>
-                    <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p><strong>Conteúdo programático:</strong> Tecnologia Educacional a serviço de alunos com deficiência intelectual; Psicologia do desenvolvimento; Fundamentos da educação de alunos com necessidades educacionais especiais; Relações familiares...</p>
+                    <img src="img/intelectual.jpg" width=100% alt="">
+                    <p><strong>Conteúdo programático:</strong> Tecnologia Educacional a serviço de alunos com deficiência intelectual; Psicologia do desenvolvimento; Fundamentos da educação de alunos com necessidades especiais; Relações familiares...</p>
                     <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.
-</p>
+                    </p>
                     <p><strong>Carga horária:</strong> 420h e 600hrs.</p>
                 
                 </div>
@@ -70,7 +74,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <h2 class="text-center">Educação Especial</h2>
-                    <img src="img/agua-viva.jpg" width=100% alt="">
+                    <img src="img/especial.jpg" width=100% alt="">
                     <p><strong>Conteúdo programático:</strong> Deficiências sensoriais, físicas e motoras; TDA/H e outros transtornos associados; Psicomotricidade; Fala, gagueira, dislexia e desenvolvimento da escrita...</p>
                     <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.
                     </p>
@@ -79,19 +83,11 @@
 
                 <div class="col-md-4">
                     <h2 class="text-center">Libras</h2>
-                    <img src="img/agua-viva.jpg" width=100% alt="">
+                    <img src="img/libras.jpeg" width=100% alt="">
                     <p><strong>Conteúdo programático:</strong> Metodologia de ensino e escrita de sinais; Fonética e Fonologia; Literatura visual e aquisição da linguagem; História, cultura e patrimônios regionais da educação de surdos...</p>
                     <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.
                     </p>
                     <p><strong>Carga horária:</strong> 420h, 600h e 930hrs.</p>
-                </div>
-
-                <div class="col-md-4">
-                    <h2 class="text-center">Neuropsicopedagogia</h2>
-                    <img src="img/agua-viva.jpg" width=100% alt="">
-                    <p><strong>Conteúdo programático:</strong> Tecnologia Educacional a serviço de alunos com deficiência intelectual; Psicologia do desenvolvimento; Fundamentos da educação de alunos com necessidades educacionais especiais; Relações familiares...</p>
-                    <p><strong>Diferenciais do Curso:</strong> Professores qualificados e com vivência acadêmica e/ou prática; Trabalho de Conclusão de Curso foca no desenvolvimento prático alinhado às disciplinas e ao desenvolvimento.</p>
-                    <p><strong>Carga horária:</strong> 420h e 600hrs.</p>
                 </div>
             </div>
 
@@ -111,6 +107,12 @@
             <p>O Instituto Educacional Soares Prado é uma empresa especializada para atender especialmente profissionais da Educação, tanto da Rede Estadual e Municipal de Ensino quanto da rede Particular, com cursos de Pós-Graduação Lato-Sensu, Aperfeiçoamento, Extensão e Aproveitamento de Estudos garantindo assim seu sucesso profissional e social. </p>
             <p>Atuamos no Atendimento Pedagógico Especializado, com profissionais capacitados na área da Educação Especial e espaço totalmente estruturado.</p>
             <p>Trata-se de um desafio de grandes proporções, mas algo perfeitamente factível. Durante todo o tempo deste desafio com o Instituto Educacional Soares Prado, haverá sempre alguém a orientar, encorajar, apoiar e assessorar.</p>
+
+            <center><video width="80%" controls>
+                <source src="img/iesp.mp4" type="video/mp4">
+                Vídeo não disponível.
+            </video></center>
+
         </div>
     </section>
 
@@ -146,8 +148,8 @@
         <div class="container parceiros">
             <center><h1>Parceiros</h1></center> <p></p>
             <div class="row">
-                <div class="col-md-6"><a href="http://www.facespi.com.br/" target="_blank"><img src="img/facespi.gif"alt=""></a></div>
-                <div class="col-md-6"><br><br><br><br><br> <a href="http://fapss.org/" target="_blank"><img src="img/fapss.gif" alt=""></a></div>
+                <div class="col-md-6"><center><a href="http://www.facespi.com.br/" target="_blank"><img src="img/facespi.gif"alt=""></a></center></div>
+                <div class="col-md-6"><br><br><br><br><br><center><a href="http://fapss.org/" target="_blank"><img src="img/fapss.gif" alt=""></a></center></div>
             </div>
         </div>
     </section>
