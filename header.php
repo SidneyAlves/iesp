@@ -13,49 +13,49 @@
   </head>
   <body>
     <header class="container-fluid">
-    <a name="topo"></a>
-      <!-- Logo -->
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 logo">
-          <img src="img/logo.jpg" width=100% height=100% alt="">  
+        <a name="topo"></a>
+        <!-- Logo -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 logo">
+                    <img src="img/logo.jpg" width=100% height=100% alt="">  
+                </div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3 link">
+                <h2 class="text-center">Redes Sociais:</h2>
+                Nos siga no Facebook:<br>
+                <a href="https://www.facebook.com/iespmogi/" target=“_blank”><img src="img/fb-icon.png" width="64px" height="64px" align="right" alt="Icone Facebook"></a>
+                <br> <br> <br>   Fale conosco no Whatsapp:<br> +55 11 97284-1392   <img src="img/wpp-icon.png" width="64px" align="right" height="64px" alt=""> 
           </div>
-          <div class="col-md-3"></div>
-          <div class="col-md-3 link">
-              <h2 class="text-center">Redes Sociais:</h2>
-              Nos siga no Facebook:<br>
-              <a href="https://www.facebook.com/iespmogi/" target=“_blank”><img src="img/fb-icon.png" width="64px" height="64px" align="right" alt="Icone Facebook"></a>
-              <br> <br> <br>   Fale conosco no Whatsapp:<br> +55 11 97284-1392   <img src="img/wpp-icon.png" width="64px" align="right" height="64px" alt=""> 
-
-          </div>
-
         </div>
       </div>
-
-        <div class="container-fluid">
-            <div class="row">  
-                <div class="col-md-12 menu">
-                    <ul class="nav">
-                        <li class="nav-item">
-                        <a class="nav-link active" href="#topo">Home</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="#textos">Cursos</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="#sobrenos">Sobre nós</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="#form">Contato</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="#parceiros">Parceiros </a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="#mapa">Mapa</a>
-                        </li>
-                    </ul>
-                </div> 
+    </header>
+        <div class="menu">
+            <div class="container">
+                <div class="row">
+                
+                    <div class="col-md-12">
+                        <ul class="nav">
+                            <li class="nav-item">
+                            <a class="nav-link active" href="header">Home</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href=".textos">Cursos</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href=".sobrenos">Sobre nós</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href=".form">Contato</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href=".parceiros">Parceiros </a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href=".mapa">Mapa</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>     
             </div>
         </div>
-    </header>

@@ -19,7 +19,16 @@ header{
 
 .menu{
     margin-top:20px;
+    margin-bottom:20px;
     background-color:#04005f;
+    width:100%;
+}
+
+.menu.f-nav{
+    position: fixed;
+    top:0;
+    margin-top:0;
+    z-index: 999;
 }
 
 .menu a{
@@ -28,6 +37,7 @@ header{
 
 .menu a:hover{
     color: #d50001;
+    background-color:#ffffff;
 }
 
 .link{
